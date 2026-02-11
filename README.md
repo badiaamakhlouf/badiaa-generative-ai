@@ -1,3 +1,3 @@
-# Generative AI:
+# Generative AI
 ## From Basics to Advanced
 
